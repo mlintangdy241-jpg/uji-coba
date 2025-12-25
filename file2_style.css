@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: gray;
+}
+header{
+    width: 100 px;
+    height: 200 px;
+    background-color: #4C6AE4;
+    text-align: center;
+    color: white;
+}
+section{
+    width: 100 px;
+    height: 400 px;
+    background-color: #E4864C;
+    color: white;
+}
+ footer{
+    width: 100 px;
+    height: 100 px;
+    background-color: yellowgreen;
+    text-align: center;
+    color: white;
+}
